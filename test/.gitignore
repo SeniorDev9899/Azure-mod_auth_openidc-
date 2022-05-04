@@ -1,0 +1,17 @@
+/jmeter.log
+/mod_auth_openidc-interop.jmx
+/test
+/*.lo
+/*.o
+/*.slo
+/.libs/
+/test-cmd
+/*.jwt
+/*.jwk
+/jmx/
+/mod_auth_openidc.results
+/test-cmd-licensed
+/.deps/
+/.dirstamp
+/test.log
+/test.trs
